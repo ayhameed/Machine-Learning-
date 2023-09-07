@@ -24,3 +24,7 @@
 ## File format
 - All solutions are in jupyter-notebook (.ipynb)file format
 
+# Reference 
+- <a href="https://www.bradford.ac.uk/courses/pg/satellite-systems-engineering/"> Department of Satellite Systems Engineering, University of Bradford </a>
+- Course contents 
+- All proprietary course contents and reports remains the property of their respective owners 
